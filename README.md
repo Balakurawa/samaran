@@ -12,6 +12,6 @@ Usage of maskphish for attacking targets without prior mutual consent is illegal
 
 ```
 git clone https://github.com/Balakurawa/samaran
-cd maskphish
+cd samaran
 bash maskphish.sh
 ```
